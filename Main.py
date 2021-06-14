@@ -2,7 +2,7 @@ import time
 import random
 from selenium import webdriver
 
-driver = webdriver.Chrome('D:\Webdrivers\chromedriver.exe')
+driver = webdriver.Chrome('D:\Webdrivers\chromedriver.exe') #location of your drivers here.
 
 videos = [
 #Put your Videos here
